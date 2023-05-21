@@ -47,7 +47,7 @@ git clone https://github.com/AichaSidiya/coloringAlgorithm.git
 * [Aicha Sidiya](https://github.com/AichaSidiya)
 * [Hanin Alzaher](https://github.com/hanin-az)
 * [Razan Almahdi](https://github.com/RazanAlmahdi)
-* Mehreen Junaid
+* [Mehreen Junaid](https://github.com/mehreenjunaid23)
 
 
 ## Acknowledgments
